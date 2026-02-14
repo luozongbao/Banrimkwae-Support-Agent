@@ -3,4 +3,3 @@
     - Webmail URL: webmail.banrimkwae.com
     - IMAP: mail.banrimkwae.com (993:SSL/TLS)
     - SMTP: mail.banrimkwae.com (465:SSL/TLS, 587: STARTTLS)
-- 
