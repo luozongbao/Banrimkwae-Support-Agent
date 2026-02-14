@@ -1,0 +1,5 @@
+- **Wifi** เรามี Wifi ฟรีให้บริการอยู่ที่ Front ศาลาอาหารด้านบน
+- Email สำหรับพนักงาน
+    - Webmail URL: webmail.banrimkwae.com
+    - IMAP: mail.lorwongam.com (993:SSL/TLS)
+    - SMTP: mail.lorwongam.com (465:SSL/TLS, 587: STARTTLS)
